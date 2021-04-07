@@ -10,7 +10,7 @@ We have a [blog](http://last-ebd.blogspot.com/) at LAST and I should have my own
 - **BS** in _GIS_
 - **Degree** in _Geography_
 
-![](https://www.ugr.es/themes/custom/ugr/ugr-horizontal-color.svg)
+![](https://imgur.com/z6yYlRP.png)
 
 ### Hi there 👋
 
