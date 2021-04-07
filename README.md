@@ -1,7 +1,16 @@
 ## Diego García Díaz
 
-I have been working since 2014 at [Remote Sensing and GIS Lab](http://www.ebd.csic.es/laboratorio-sig-y-teledeteccion-last) at [Doñana Biological Research Centre](http://www.ebd.csic.es/inicio) (Spanish Research Council (CSIC)). Mostly coding python against Landsat and Sentinel images
+I have been working since 2014 at [Remote Sensing and GIS Lab (LAST)](http://www.ebd.csic.es/laboratorio-sig-y-teledeteccion-last) at [Doñana Biological Research Centre](http://www.ebd.csic.es/inicio) (Spanish Research Council (CSIC)). Mostly coding python against Landsat and Sentinel images.
 
+We have a [blog](http://last-ebd.blogspot.com/) at LAST and I should have my own [website](http://pythoneandoendonana.com/) about python and remote sensing functional somewhen in the near future
+
+### Education
+
+- **MSc** in _Urban Planning and Local Managment_
+- **BS** in _GIS_
+- **Degree** in _Geography_
+
+![](https://www.ugr.es/themes/custom/ugr/ugr-horizontal-color.svg)
 
 ### Hi there 👋
 
