@@ -10,13 +10,14 @@ We have a [blog](http://last-ebd.blogspot.com/) at LAST and I should have my own
 - **BS** in _GIS_
 - **Degree** in _Geography_
 
+
 ![](https://i1.rgstatic.net/ii/institution.image/AS%3A267455669178370%401440777808925_l)
 ![](https://www.centrosuniversitarios.com/uploads/unia_logo.jpg)
 ![](https://www.centrosuniversitarios.com/uploads/us_logo.jpg)
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on eLTER projects
+- 🔭 I’m currently working on [eLTER](https://www.lter-europe.net/lter-europe) Project
 - 🌱 I’m currently learning everything I can
 - 👯 I’m looking to collaborate on phenocams analysis
 - 🤔 I’m looking for help with phenology and live in general
