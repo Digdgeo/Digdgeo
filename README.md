@@ -2,7 +2,7 @@
 
 I have been working since 2014 at [Remote Sensing and GIS Lab (LAST)](http://www.ebd.csic.es/laboratorio-sig-y-teledeteccion-last) at [Doñana Biological Research Centre](http://www.ebd.csic.es/inicio) (Spanish Research Council (CSIC)). Mostly coding python against Landsat and Sentinel images.
 
-We have a [blog](http://last-ebd.blogspot.com/) at LAST and I should have my own [website](http://pythoneandoendonana.com/) about python and remote sensing functional somewhen in the near future
+We have a [blog](http://last-ebd.blogspot.com/) at LAST and I should have my own website about python and remote sensing functional somewhen in the near future
 
 ### Education
 
