@@ -40,7 +40,7 @@
 ---
 
 ## 🌱 Learning & Collaboration
-- **Learning**: Always expanding my knowledge in geospatial technologies and data science.
+- **Learning**: Always expanding my knowledge in geospatial technologies and data science. And nowadays, also learning to climb and trying to survive. 
 - **Collaboration**: Open to collaborating on whatever that implies pixels.
 - **Seeking Help**: Hydroperiod and improving water and cloud masks is always a thing...
 
@@ -56,8 +56,8 @@
 
 ## 📫 How to Reach Me
 - **GitHub**: [Digdgeo](https://github.com/Digdgeo)
-- **Email**: [diegogarcia@ebd.csic.es]
-- **Social Media**: [@mopayyo.bsky.social]
+- **Email**: diegogarcia@ebd.csic.es
+- **Social Media**: @mopayyo.bsky.social
 
 ---
 
