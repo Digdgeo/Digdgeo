@@ -5,7 +5,7 @@
 ---
 
 ## 🏢 Current Position
-- **Since 2014**: Working at the [Remote Sensing and GIS Lab (LAST)](https://www.csic.es/es/investigacion/catalogo-de-servicios-cientifico-tecnico/unidades-de-servicio/laboratorio-de-sistemas-de-informacion-geografica-y-teledeteccion-last-ebd) at the [Doñana Biological Research Centre]([http://www.ebd.csic.es/inicio](https://www.ebd.csic.es/)) (Spanish Research Council - CSIC).
+- **Since 2014**: Working at the [Remote Sensing and GIS Lab (LAST)](https://www.csic.es/es/investigacion/catalogo-de-servicios-cientifico-tecnico/unidades-de-servicio/laboratorio-de-sistemas-de-informacion-geografica-y-teledeteccion-last-ebd) at the [Doñana Biological Research Centre](https://www.ebd.csic.es/) (Spanish Research Council - CSIC).
 - **Focus**: Primarily coding in Python for processing and analyzing Landsat and Sentinel-2 satellite imagery.
 
 ---
@@ -29,13 +29,13 @@
 
 ## 🛠️ Skills & Expertise
 - **Programming**: Python, GIS, Remote Sensing, Databases
-- **Python Packages**: NDVI2GIF (seasonal index composites), PyVPP (download Wekeo Data), GeeLTERMap (Map enviroment and data for eLTER sites), netops-cadiz (spectroradiometry data to satellite theoretical response) 
+- **Python Packages**: NDVI2GIF (Seasonal Index Composites), PyVPP (Download Wekeo Data), GeeLTERMap (Map enviroment and data for eLTER sites), netops-cadiz (Spectroradiometry data to satellite theoretical response) 
 - **Interests**: Playing with pixels looking for flood and related things. Also Phenology, Geomorphology and Datavis. More over, I am a terrible surfer and Mountain Biker. 
 
 ---
 
 ## 📡 Current Projects
-- **Landsat Protocol v2**: Right now finishing the update to Collection 2 Level 2. Not finished yet because there are lots of new funcionalities :)
+- **Landsat Protocol v2**: Right now finishing the update to Collection 2 Level 2. Not finished yet because there are lots of new funcionalities 🤓
 
 ---
 
@@ -56,8 +56,8 @@
 
 ## 📫 How to Reach Me
 - **GitHub**: [Digdgeo](https://github.com/Digdgeo)
-- **Email**: [Your Email Here]
-- **Social Media**: [Your LinkedIn/Twitter Here]
+- **Email**: [diegogarcia@ebd.csic.es]
+- **Social Media**: [@mopayyo.bsky.social]
 
 ---
 
