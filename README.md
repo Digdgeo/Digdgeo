@@ -6,14 +6,14 @@
 
 ## 🏢 Current Position
 - **Since 2014**: Working at the [Remote Sensing and GIS Lab (LAST)](https://www.csic.es/es/investigacion/catalogo-de-servicios-cientifico-tecnico/unidades-de-servicio/laboratorio-de-sistemas-de-informacion-geografica-y-teledeteccion-last-ebd) at the [Doñana Biological Research Centre](https://www.ebd.csic.es/) (Spanish Research Council - CSIC).
-- **Focus**: Primarily coding in Python for processing and analyzing Landsat and Sentinel-2 satellite imagery.
+- **Focus**: Mainly coding in Python to process and analyze Landsat and Sentinel-2 satellite imagery.
 
 ---
 
 ## 📚 Education 
 - **MSc** in _Urban Planning and Local Management_ – [University of Seville](https://www.us.es)   
-- **BS** in _GIS_ – [Univeristy International of Andalusia](https://www.unia.es)  
-- **Degree** in _Geography_ – via [University of Grenade](https://www.ugr.es/)
+- **Postgraduate Certificate** in _GIS_ – [International University of Andalusia](https://www.unia.es)  
+- **BA** in _Geography_ – [University of Granada](https://www.ugr.es/)
 
 ---
 
@@ -48,7 +48,7 @@
 
 ## 🌱 Learning & Collaboration
 - **Learning**: Always expanding my knowledge in geospatial technologies and data science. And nowadays, also learning to climb and trying to survive.  
-- **Collaboration**: Open to collaborating on whatever that implies pixels.  
+- **Collaboration**: Open to collaborating on anything that involves pixels.  
 - **Seeking Help**: Hydroperiod and improving water and cloud masks is always a thing...
 
 ---
