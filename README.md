@@ -38,7 +38,7 @@
 | [`PyVPP`](https://github.com/Digdgeo/pyvpp) | Download, mosaic, and crop HRVPP data from WEkEO. |
 | [`GeeLTERMap`](https://github.com/Digdgeo/geeltermap) | Visualize environmental data for eLTER sites using Google Earth Engine and Geemap. |
 | [`netops-cadiz`](https://github.com/Digdgeo/netops-cadiz) | Convert spectroradiometry field data to theoretical satellite responses. |
-| [`phydroperiod`](https://pypi.org/project/phydroperiod/) | Calculate hydroperiod from water masks based on a hydrological cycle. |
+| [`Phydroperiod`](https://pypi.org/project/phydroperiod/) | Calculate hydroperiod from water masks based on a hydrological cycle. |
 
 ---
 
