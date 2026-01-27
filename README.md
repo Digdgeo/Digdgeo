@@ -10,9 +10,10 @@
 
 ---
 
-## 📚 Education 
-- **MSc** in _Urban Planning and Local Management_ – [University of Seville](https://www.us.es)   
-- **Postgraduate Certificate** in _GIS_ – [International University of Andalusia](https://www.unia.es)  
+## 📚 Education
+- **PhD** (in progress) – [University of Huelva](https://www.uhu.es/)
+- **MSc** in _Urban Planning and Local Management_ – [University of Seville](https://www.us.es)
+- **Postgraduate Certificate** in _GIS_ – [International University of Andalusia](https://www.unia.es)
 - **BA** in _Geography_ – [University of Granada](https://www.ugr.es/)
 
 ---
@@ -43,7 +44,8 @@
 ---
 
 ## 📡 Current Projects
-- **Landsat Protocol v2**: Right now finishing the update to Collection 2 Level 2. Not finished yet because there are lots of new functionalities 🤓
+- **Landsat Protocol v2**: Almost finished! Updated to Collection 2 Level 2 with lots of new functionalities. It will be a work in constant evolution 🤓
+- **Sentinel-2 Protocol**: Almost there! A similar approach for Sentinel-2 imagery processing 🛰️
 
 ---
 
