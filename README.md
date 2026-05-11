@@ -43,7 +43,7 @@
 
 ---
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/QGIS-logo-nolabel.svg" width="22"/> QGIS Processing Scripts
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/QGIS-logo-nolabel.svg/120px-QGIS-logo-nolabel.svg.png" width="22"/> QGIS Processing Scripts
 
 | Script | Description |
 |--------|-------------|
