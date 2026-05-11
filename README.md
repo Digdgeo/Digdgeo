@@ -35,11 +35,11 @@
 
 | Package | Description |
 |--------|-------------|
-| [`NDVI2GIF`](https://github.com/Digdgeo/ndvi2gif) | **La niña bonita**. A global analytic tool based on GEE and Geemap. Check it out, it's worth it :)<br>• Remote Sensing Indexes composites<br>• SAR Analysis<br>• Time Series and phenology analysis<br>• Land cover classification<br>• Hydroperiod |
+| [`NDVI2GIF`](https://github.com/Digdgeo/ndvi2gif) | Generate seasonal remote sensing index composites. Supports time series analysis, land cover classification, phenology and hydroperiod mapping. |
 | [`PyVPP`](https://github.com/Digdgeo/pyvpp) | Download, mosaic, and crop EO data from WEkEO. Supports multiple datasets including Sentinel-2 bands directly. |
 | [`GeeLTERMap`](https://github.com/Digdgeo/geeltermap) | Visualize environmental data for eLTER sites using Google Earth Engine and Geemap. |
 | [`netops-cadiz`](https://github.com/Digdgeo/netops-cadiz) | Convert spectroradiometry field data to theoretical satellite responses. |
-| [`Phydroperiod`](https://pypi.org/project/phydroperiod/) | Calculate hydroperiod from water masks based on a hydrological cycle. **Handles nodata values in masks for greater temporal precision.** |
+| [`Phydroperiod`](https://pypi.org/project/phydroperiod/) | Calculate hydroperiod from water masks based on a hydrological cycle. |
 
 ---
 
