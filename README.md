@@ -39,11 +39,11 @@
 | [`PyVPP`](https://github.com/Digdgeo/pyvpp) | Download, mosaic, and crop EO data from WEkEO. Supports multiple datasets including Sentinel-2 bands directly. |
 | [`GeeLTERMap`](https://github.com/Digdgeo/geeltermap) | Visualize environmental data for eLTER sites using Google Earth Engine and Geemap. |
 | [`netops-cadiz`](https://github.com/Digdgeo/netops-cadiz) | Convert spectroradiometry field data to theoretical satellite responses. |
-| [`Phydroperiod`](https://pypi.org/project/phydroperiod/) | Calculate hydroperiod from water masks based on a hydrological cycle. |
+| [`Phydroperiod`](https://pypi.org/project/phydroperiod/) | Calculate hydroperiod from water masks based on a hydrological cycle. **Handles nodata values in masks for greater temporal precision.** |
 
 ---
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/QGIS_logo%2C_2017.svg" width="22"/> QGIS Processing Scripts
+### <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/QGIS-logo-nolabel.svg" width="22"/> QGIS Processing Scripts
 
 | Script | Description |
 |--------|-------------|
