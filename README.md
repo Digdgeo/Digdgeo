@@ -27,11 +27,11 @@
 ## 🛠️ Skills & Expertise
 - **Programming**: Python, GIS, Remote Sensing, Databases  
 - **Interests**: Exploring flood dynamics through remote sensing. Also interested in phenology, coastal geomorphology, and data visualization.  
-- **Beyond Work**: Poor level surfer, *taska* mountain biker, and a --forever-- beginner climber.
+- **Beyond Work**: Poor level surfer, *taska* mountain biker, and a --forever-- beginner climber. Also dreaming of the next real estate crash and the sweet relief of falling housing prices.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22"/> Python Packages
+### 🐍 Python Packages
 
 | Package | Description |
 |--------|-------------|
@@ -43,7 +43,7 @@
 
 ---
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/QGIS-logo-nolabel.svg/120px-QGIS-logo-nolabel.svg.png" width="22"/> QGIS Processing Scripts
+### 🗺️ QGIS Processing Scripts
 
 | Script | Description |
 |--------|-------------|
