@@ -31,11 +31,11 @@
 
 ---
 
-### 🐍 Python Packages
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22"/> Python Packages
 
 | Package | Description |
 |--------|-------------|
-| [`NDVI2GIF`](https://github.com/Digdgeo/ndvi2gif) | Generate seasonal remote sensing index composites. Supports time series analysis, land cover classification, phenology and hydroperiod mapping. |
+| [`NDVI2GIF`](https://github.com/Digdgeo/ndvi2gif) | **La niña bonita**. A global analytic tool based on GEE and Geemap. Check it out, it's worth it :)<br>• Remote Sensing Indexes composites<br>• SAR Analysis<br>• Time Series and phenology analysis<br>• Land cover classification<br>• Hydroperiod |
 | [`PyVPP`](https://github.com/Digdgeo/pyvpp) | Download, mosaic, and crop EO data from WEkEO. Supports multiple datasets including Sentinel-2 bands directly. |
 | [`GeeLTERMap`](https://github.com/Digdgeo/geeltermap) | Visualize environmental data for eLTER sites using Google Earth Engine and Geemap. |
 | [`netops-cadiz`](https://github.com/Digdgeo/netops-cadiz) | Convert spectroradiometry field data to theoretical satellite responses. |
@@ -43,7 +43,7 @@
 
 ---
 
-### 🗺️ QGIS Processing Scripts
+### <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/QGIS_logo%2C_2017.svg" width="22"/> QGIS Processing Scripts
 
 | Script | Description |
 |--------|-------------|
@@ -53,7 +53,13 @@
 ---
 
 ## 📡 Current Projects
-- **[Landsat Protocol v2](https://github.com/Digdgeo/ProtocoloV2)**: Updated to Collection 2 Level 2. Includes image normalisation based on pseudo-invariant areas (PIAs), water masks, turbidity estimation, water depth, shoreline detection and hydroperiod mapping.
+- **[Landsat Protocol v2](https://github.com/Digdgeo/ProtocoloV2)**: Updated to Collection 2 Level 2.
+  - Image normalisation based on pseudo-invariant areas (PIAs)
+  - Water masks
+  - Turbidity estimation
+  - Water depth
+  - Shoreline detection
+  - Hydroperiod mapping
 - **Sentinel-2 Protocol**: Almost there! A similar approach for Sentinel-2 imagery processing 🛰️
 
 ---
