@@ -47,7 +47,7 @@
 
 | Script | Description |
 |--------|-------------|
-| [`Max Line Inside Polygon`](https://github.com/Digdgeo/qgis-research-tools) | Computes the longest interior diagonal, exterior diagonal, mid-point perpendicular and maximum perpendicular for each polygon in a layer. |
+| [`Max Line Inside Polygon`](https://github.com/Digdgeo/qgis-research-tools) | Computes the longest interior diagonal, longest intersecting line, mid-point perpendicular and maximum perpendicular for each polygon in a layer. |
 | [`Random Move Geometries Inside`](https://github.com/Digdgeo/qgis-research-tools) | Randomly moves and rotates groups of geometries (points, lines or polygons) within a user-defined area. Designed for anonymisation of wildlife location data. |
 
 ---
