@@ -36,7 +36,7 @@
 | Package | Description |
 |--------|-------------|
 | [`NDVI2GIF`](https://github.com/Digdgeo/ndvi2gif) | Generate seasonal remote sensing index composites — and so much more. |
-| [`PyVPP`](https://github.com/Digdgeo/pyvpp) | Download, mosaic, and crop EO data from Copernicus/WEkEO via hda library. |
+| [`PyVPP`](https://github.com/Digdgeo/pyvpp) | Download, mosaic, and crop EO data from Copernicus/WEkEO via the hda library. |
 | [`GeeLTERMap`](https://github.com/Digdgeo/geeltermap) | Visualize environmental data for eLTER sites using Google Earth Engine and Geemap. |
 | [`netops-cadiz`](https://github.com/Digdgeo/netops-cadiz) | Convert spectroradiometry field data to theoretical satellite responses. |
 | [`Phydroperiod`](https://pypi.org/project/phydroperiod/) | Calculate hydroperiod from water masks based on a hydrological cycle. |
